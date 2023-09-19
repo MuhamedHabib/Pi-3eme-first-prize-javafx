@@ -1,4 +1,4 @@
-# Pi-3eme
+# Pi-3eme :: this app contain only the desktop part
 integrated web-mobile-desktop application 
 Techstack:
 
